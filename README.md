@@ -19,4 +19,8 @@ Below chart display insights about 3 types of locations (rural, suburban, urban)
 
 ![Vacation Preferences by Location](./Charts/Vacation%20Preferences%20by%20Location.png)
 
+## Top 3 Factors Influencing Vacation Preference
+It shows the top influencing factors with correlation to preference. Vacation budget takes the leading spot.
+
+![Top 3 Factors Influencing Vacation Preference](./Charts/Top%203%20Factors%20Influencing%20Vacation%20Preference.png) 
 
