@@ -10,8 +10,13 @@ Detailed analysis of public preference for mountain vs. beaches. Various charts 
 - Jupyter Notebook
 
 ## Vacation Preference by Age Range
-I created different age groups and then aggregate the data by mountain and beaches. This graph helps us understand that across all age groups numbers are in favor of beaches as a preferred vacation rather than mountains.
+I created different age groups and then aggregate the data by mountain and beaches. This graph helps understand that across all age groups numbers are in favor of beaches as a preferred vacation rather than mountains.
 
 ![Vacation Preferences by Age Range](./Charts/Vacation%20Preferences%20by%20Age%20Range.png)
+
+## Vacation Preferences by Location
+Below chart display insights about 3 types of locations (rural, suburban, urban) and preferred activities for these locations.
+
+![Vacation Preferences by Location](./Charts/Vacation%20Preferences%20by%20Location.png)
 
 
