@@ -24,3 +24,18 @@ It shows the top influencing factors with correlation to preference. Vacation bu
 
 ![Top 3 Factors Influencing Vacation Preference](./Charts/Top%203%20Factors%20Influencing%20Vacation%20Preference.png) 
 
+## Vacation Preference Based on Proximity to Beaches
+Created four types of ranges (very close, close, moderate, far) to visualize the impact of proximity on vacation preference. The 'very close' proximity to beaches turned out to be the most preferred, with over 87% of the public choosing it for vacations. Only 12.5% chose the beaches when they resided far from them.
+
+![Vacation Preference Based on Proximity to Beaches](./Charts/Vacation%20Preference%20Based%20on%20Proximity%20to%20Beaches.png) 
+
+## Vacation Preference Based on Proximity to Mountains
+Below chart represents vacation prefernce based on porximity to mountains. Almost 54 percent public choose mountains as vacation destination, and 45.9 percent choose beaches.
+
+![Vacation Preference Based on Proximity to Mountains](./Charts/Vacation%20Preference%20Based%20on%20Proximity%20to%20Beaches.png) 
+
+## Percentage of Respondents Locations
+The data shows that the individuals resides in 3 types of locations (rural: 33.3%, urban: 33.3%, suburban: 33.4%). 
+
+![Percentage of Respondents Locations](./Charts/Percentage%20of%20Respondents%20Locations.png) 
+
