@@ -50,10 +50,12 @@ This graph shows the preference for vacation based on environmental concerns.
 ![Vacation Preference Based On Envirnmental Concerns](./Charts/Vaction%20Preference%20Based%20On%20Envirnmental%20Concerns.png) 
 
 ## Education Level of Respondents
-There are 4 levels of education which individuals of this data has (Hig school: 24.9%, Bachelor: 25.0%, Master: 24.7%, Doctorate 25.3%).
+There are 4 levels of education which individuals of this data has (High school: 24.9%, Bachelor: 25.0%, Master: 24.7%, Doctorate 25.3%).
 
 ![Education Level of Respondents](./Charts/Education%20Level%20of%20Respondents.png) 
 
+## Summary
+Based on data analysis, there was a significant inclination towards beaches as a vacation destination across all age groups. About 13,124 males and 13,221 females chose beaches as their vacation destination. In comparison, 4,417 males and 4,398 females chose mountains as their vacation destination.
 
 
 
