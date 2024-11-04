@@ -39,3 +39,27 @@ The data shows that the individuals resides in 3 types of locations (rural: 33.3
 
 ![Percentage of Respondents Locations](./Charts/Percentage%20of%20Respondents%20Locations.png) 
 
+## Vacation Preference by Gender
+This graph shows the preference for vacation by gender.
+
+![Vacation Preference by Gender](./Charts/Vaction%20Preference%20by%20Gender.png) 
+
+## Vacation Preference Based On Envirnmental Concerns
+This graph shows the preference for vacation based on environmental concerns.
+
+![Vacation Preference Based On Envirnmental Concerns](./Charts/Vaction%20Preference%20Based%20On%20Envirnmental%20Concerns.png) 
+
+## Education Level of Respondents
+There are 4 levels of education which individuals of this data has (Hig school: 24.9%, Bachelor: 25.0%, Master: 24.7%, Doctorate 25.3%).
+
+![Education Level of Respondents](./Charts/Vaction%20Preference%20Based%20On%20Envirnmental%20Concerns.png) 
+
+
+
+
+
+
+
+
+
+
