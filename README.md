@@ -42,7 +42,7 @@ The data shows that the individuals resides in 3 types of locations (rural: 33.3
 ## Vacation Preference by Gender
 This graph shows the preference for vacation by gender.
 
-![Vacation Preference by Gender](./Charts/Vaction%20Preference%20by%20Gender.png) 
+![Vacation Preference by Gender](./Charts/Vacation%20Preference%20by%20Gender.png) 
 
 ## Vacation Preference Based On Envirnmental Concerns
 This graph shows the preference for vacation based on environmental concerns.
