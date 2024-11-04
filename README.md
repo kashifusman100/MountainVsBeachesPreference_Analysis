@@ -52,7 +52,7 @@ This graph shows the preference for vacation based on environmental concerns.
 ## Education Level of Respondents
 There are 4 levels of education which individuals of this data has (Hig school: 24.9%, Bachelor: 25.0%, Master: 24.7%, Doctorate 25.3%).
 
-![Education Level of Respondents](./Charts/Vaction%20Preference%20Based%20On%20Envirnmental%20Concerns.png) 
+![Education Level of Respondents](./Charts/Education%20Level%20of%20Respondents.png) 
 
 
 
