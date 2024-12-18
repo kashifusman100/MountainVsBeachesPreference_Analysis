@@ -10,7 +10,7 @@ Detailed analysis of public preference for mountain vs. beaches. Various charts 
 - Jupyter Notebook
 
 ## Vacation Preference by Age Range
-I created different age groups and then aggregate the data by mountain and beaches. This graph helps understand that across all age groups numbers are in favor of beaches as a preferred vacation rather than mountains.
+It displays vacation preferences by custom age groups, showcasing a strong inclination toward beaches. Over 14,000 individuals aged 51+ and 13,000 adults (36–50) favor beaches, while mountains remain unpopular, with preferences under 6,000 across all groups.
 
 ![Vacation Preferences by Age Range](./Charts/Vacation%20Preferences%20by%20Age%20Range.png)
 
