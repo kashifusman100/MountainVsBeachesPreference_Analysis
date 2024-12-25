@@ -1,6 +1,9 @@
 # MountainVsBeaches_VacationsPreference_Analysis
 Detailed analysis of public preference for mountain vs. beaches. Various charts are being created to help understand key insights about this data such as top factors influencing vacation preference, age distribution, education level of respondents, favorite seasons, Location proximity to mountains and beaches, respondents locations. It also includes insights about the public income range and their budget for vacation.
 
+## Problem Statement
+Understanding public vacation preferences between mountains and beaches is essential for businesses in the travel and tourism industry to design offerings that align with consumer needs. This project explores key factors influencing vacation decisions, analyzing trends across demographics such as age, gender, education level, and location. It also examines the impact of proximity to mountains or beaches and evaluates respondents' income ranges and vacation budgets.
+
 ## Data source:
 - Dataset_mountains_vs_beaches_preferences.csv
 
